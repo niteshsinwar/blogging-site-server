@@ -21,5 +21,7 @@ This repository serves as the server for our 🌐 blogging website created using
 - 📝 Users can submit blog posts for approval
 
 ### Contributors
-- 
+- @Vivek1898
+- @sumansourabh9155
+- @niteshsinwar
 
