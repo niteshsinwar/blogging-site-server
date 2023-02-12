@@ -4,9 +4,7 @@ This repository serves as the server for our 🌐 blogging website created using
 ## Technologies Used
 - 💾 MongoDB
 - 💻 Express.js
-- ⚛️ React
 - 🖥️ Node.js
-- 💄 Material UI
 - 🔐 JSON Web Tokens (JWT)
 
 ## Installation and Setup
